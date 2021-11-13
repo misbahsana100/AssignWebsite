@@ -1,0 +1,153 @@
+.navbar{
+    display: inline-flex;
+    list-style: none;
+  
+   
+    text-align: center;
+  }
+  
+  .navbar ul li {
+    display: inline-flex;
+    padding: 12px;
+    margin: 12px;
+    font-weight: bold;
+  }
+  .images{
+  
+  
+    display: inline-flex;
+  
+  }
+  .images img{
+  
+  
+   border-radius: 100%;
+  
+  }
+  
+  .images div{
+  padding: 10px;
+  border-radius: 100%;
+  
+  
+  }
+  .minidiv{
+    display: inline-flex;
+  
+  }
+  .min{
+    border:  2px solid;
+    margin-left: 90px;
+    width: 590px;
+    height: 230px;
+    
+   
+   
+  }
+   .h1{
+   margin-bottom: -50px;
+   margin-left: 20px;
+   
+   }
+   .h1  span{
+    color: rgb(99, 99, 99);
+   }
+   .h11{
+    margin-top: 70px;
+    margin-left: 20px;
+    }
+    .h11  span{
+      color: rgb(99, 99, 99);
+     }
+    
+  .mid{
+    border : 2px solid;
+    margin-left: 30px;
+    width: 590px;
+    height: 230px;
+  }
+  .minimage{
+    margin-left: 270px;
+    margin-top:-100px;
+  
+  }
+  .midimage{
+    margin-top:-150px;
+    margin-left:280px;
+  
+  }
+  .cards {
+    display: inline-flex;
+    margin-left: 70px;
+    padding: 30px;
+    
+   
+  }
+  
+  
+  
+  .h2{
+    color: red;
+    /* font-weight: bolder; */
+    text-align: center;
+    font-size:5px;
+  }
+  .h2 h4{
+    margin-left: 10px;
+  }
+  h4{
+    margin-left: 10px;
+  }
+  .card1{
+    
+    margin-left:-50px;
+    margin-right: 32px;
+  
+  
+    
+    border: rgb(233, 10, 10) solid 2px;
+    
+  }
+  
+  .card2{
+    
+    margin-right:40px;
+    border: rgb(233, 10, 10) solid 2px;
+  }
+  .card3{
+    
+    margin-right:30px;
+    border: rgb(233, 10, 10) solid 2px;
+  }
+  .card4{
+    
+    margin-right:-100px;
+    border: rgb(233, 10, 10) solid 2px;
+  }
+  .rec{
+    display: inline-flex;
+   
+  }
+  .rec1{
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  p{
+    margin-left: 20px;
+    font-size: xx-large;
+    font-weight: bold;
+  }
+  h6{
+    margin-left: 20px;
+  }
+  .bold{
+    color: rgb(68, 216, 68);
+    font-size: small;
+  }
+  
+  
+  
+  
+  
+  
+  
